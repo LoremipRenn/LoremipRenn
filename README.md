@@ -7,24 +7,11 @@
     <i>Building scalable web applications, seamless payment integrations, and interactive digital experiences.</i>
   </p>
 
-  <!-- Status & Collaboration Badges -->
+  <!-- Status & Collaboration Badges (Non-clickable) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration_&_Projects-10b981?style=for-the-badge" alt="Open for Collaboration" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack_Web_&_AR-3b82f6?style=for-the-badge" alt="Focus" />
-    <img src="https://komarev.com/ghpvc/?username=LoremipRenn&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  </p>
-
-  <!-- Contact / Social Links (Ganti URL sesuai akunmu) -->
-  <p align="center">
-    <a href="mailto:emailkamu@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/username-kamu" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/username-kamu" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+    <a><img src="https://img.shields.io/badge/Status-Open_for_Collaboration_&_Projects-10b981?style=for-the-badge" alt="Open for Collaboration" /></a>
+    <a><img src="https://img.shields.io/badge/Focus-Full--Stack_Web_&_AR-3b82f6?style=for-the-badge" alt="Focus" /></a>
+    <a><img src="https://komarev.com/ghpvc/?username=LoremipRenn&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" /></a>
   </p>
 
 </div>
@@ -52,17 +39,17 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=php,ts,nodejs,laravel,nestjs&perline=3" alt="Backend" /><br/>
-      <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+      <a><img src="https://skillicons.dev/icons?i=php,ts,nodejs,laravel,nestjs&perline=3" alt="Backend" /></a><br/>
+      <a><img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" /></a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vue,react,vite&perline=4" alt="Frontend" />
+      <a><img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vue,react,vite&perline=4" alt="Frontend" /></a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase,py,selenium,git&perline=3" alt="Database & Automation" />
+      <a><img src="https://skillicons.dev/icons?i=mysql,prisma,firebase,py,selenium,git&perline=3" alt="Database & Automation" /></a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,unity,blender,figma,ps,ai&perline=3" alt="Creative & Game" />
+      <a><img src="https://skillicons.dev/icons?i=cs,unity,blender,figma,ps,ai&perline=3" alt="Creative & Game" /></a>
     </td>
   </tr>
 </table>
@@ -83,8 +70,8 @@
 ### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LoremipRenn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rendra's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoremipRenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a><img height="165" src="https://github-readme-stats.vercel.app/api?username=LoremipRenn&show_icons=true&theme=tokyonight&hide_border=true" alt="Rendra's GitHub Stats" /></a>
+  <a><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoremipRenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></a>
 </div>
 
 ---
