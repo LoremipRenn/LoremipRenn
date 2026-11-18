@@ -1,9 +1,95 @@
-<h1 align="center">Hi 👋, I'm Rendra</h1>
-<h3 align="center">A developer from Indonesia passionate about building web applications, exploring new technologies, and creating useful digital experiences.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **PHP, Laravel, CodeIgniter 4, Vue.js, TypeScript, and modern web development**
+  <h1>Hi there, I'm Rendra 👋</h1>
+  <h3>Full-Stack Web Developer & Interactive Media Enthusiast from Indonesia 🇮🇩</h3>
 
-- 💬 Ask me about **PHP, Laravel, JavaScript, Unity, Firebase, and Augmented Reality**
+  <p align="center">
+    <i>Building scalable web applications, seamless payment integrations, and interactive digital experiences.</i>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+  <!-- Status & Collaboration Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Open_for_Collaboration_&_Projects-10b981?style=for-the-badge" alt="Open for Collaboration" />
+    <img src="https://img.shields.io/badge/Focus-Full--Stack_Web_&_AR-3b82f6?style=for-the-badge" alt="Focus" />
+    <img src="https://komarev.com/ghpvc/?username=LoremipRenn&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  <!-- Contact / Social Links (Ganti URL sesuai akunmu) -->
+  <p align="center">
+    <a href="mailto:emailkamu@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/username-kamu" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://instagram.com/username-kamu" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 About Me & What I Do
+
+- 💻 **Full-Stack Web Development:** Experienced in building end-to-end web apps using **Laravel**, **NestJS (TypeScript)**, and **CodeIgniter 4**, complete with RBAC authentication, real-time updates (SSE), and **Midtrans Payment Gateway** integration.
+- 🎮 **Interactive & Spatial Tech:** Passionate about combining web technology with **Unity (C#)**, **3D (Blender)**, and **Augmented Reality (AR)**.
+- 🌱 **Currently Expanding Into:** **Vue.js**, **React**, modern **TypeScript** architecture, and automated testing.
+- 🤝 **Looking to Collaborate On:** Full-stack web platforms (SaaS, E-Commerce, Booking Systems), RESTful APIs, Open Source projects, and interactive Unity/AR experiences.
+- 💬 **Ask me about:** `PHP` • `Laravel` • `NestJS` • `TypeScript` • `CodeIgniter 4` • `Midtrans Integration` • `Unity & AR`
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Backend & API</b></td>
+    <td align="center" width="25%"><b>Frontend & UI</b></td>
+    <td align="center" width="25%"><b>Database & Automation</b></td>
+    <td align="center" width="25%"><b>Game, AR & Creative</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,ts,nodejs,laravel,nestjs&perline=3" alt="Backend" /><br/>
+      <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vue,react,vite&perline=4" alt="Frontend" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,prisma,firebase,py,selenium,git&perline=3" alt="Database & Automation" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs,unity,blender,figma,ps,ai&perline=3" alt="Creative & Game" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⭐ Featured Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| ☕ **[RANUM-Coffee](https://github.com/LoremipRenn/RANUM-Coffee)** | `NestJS` `TypeScript` `Prisma` `Laravel 13` `Tailwind v4` `MySQL` | Full-stack coffee shop platform featuring QR table ordering, **Midtrans Snap** payment webhook, real-time order tracking (SSE), and RBAC admin dashboard. |
+| 🧺 **[Velvoria-Laundry](https://github.com/LoremipRenn/Velvoria-Laundry)** | `CodeIgniter 4` `PHP 8` `Tailwind CSS` `MySQL` `Midtrans` | Modern laundry management & online transaction web app with automated payment gateway integration and database migrations. |
+| 🏟️ **[Sportiva](https://github.com/LoremipRenn/Sportiva)** | `PHP` `MySQL` `JavaScript` `HTML/CSS` | Sports venue booking platform with live schedule availability, OTP verification, cart management, and *"Mabar"* (matchmaking) feature. |
+| 🤖 **[Auto-Fill-Google-Form](https://github.com/LoremipRenn/Auto-Fill-Google-Form)** | `Python` `Selenium WebDriver` | Browser automation script built with Python & Selenium for rapid, automated form submission and testing. |
+
+---
+
+### 📈 GitHub Activity & Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LoremipRenn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rendra's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoremipRenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <b>💡 Got an interesting project idea or need a collaborator for your team?</b><br/>
+  Feel free to open an issue, check out my repositories, or reach out directly!
+</div>
