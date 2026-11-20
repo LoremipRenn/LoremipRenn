@@ -70,7 +70,7 @@
 ### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <a><img height="165" src="https://github-readme-stats.vercel.app/api?username=LoremipRenn&show_icons=true&theme=tokyonight&hide_border=true" alt="Rendra's GitHub Stats" /></a>
+  <a><img height="165" src="https://github-readme-stats.vercel.app/api?username=LoremipRenn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Rendra's GitHub Stats" /></a>
   <a><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoremipRenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></a>
 </div>
 
