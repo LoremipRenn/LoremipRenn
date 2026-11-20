@@ -56,22 +56,37 @@
 
 ---
 
-### ⭐ Featured Projects
+### ⭐ Featured & Latest Projects
+
+<!--START_PROJECTS-->
+
+<sub>Auto-synced from GitHub • Showing **Page 1 of 2** (6 public repositories)</sub>
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| ☕ **[RANUM-Coffee](https://github.com/LoremipRenn/RANUM-Coffee)** | `NestJS` `TypeScript` `Prisma` `Laravel 13` `Tailwind v4` `MySQL` | Full-stack coffee shop platform featuring QR table ordering, **Midtrans Snap** payment webhook, real-time order tracking (SSE), and RBAC admin dashboard. |
-| 🧺 **[Velvoria-Laundry](https://github.com/LoremipRenn/Velvoria-Laundry)** | `CodeIgniter 4` `PHP 8` `Tailwind CSS` `MySQL` `Midtrans` | Modern laundry management & online transaction web app with automated payment gateway integration and database migrations. |
-| 🏟️ **[Sportiva](https://github.com/LoremipRenn/Sportiva)** | `PHP` `MySQL` `JavaScript` `HTML/CSS` | Sports venue booking platform with live schedule availability, OTP verification, cart management, and *"Mabar"* (matchmaking) feature. |
+| 📦 **[LennyWeddingGallery](https://github.com/LoremipRenn/LennyWeddingGallery)** | `Svelte` | Project built with **Svelte** (`★ 1`). |
+| 📦 **[HokiBrewCoffee](https://github.com/LoremipRenn/HokiBrewCoffee)** | `PHP` | Project built with **PHP** (`★ 1`). |
 | 🤖 **[Auto-Fill-Google-Form](https://github.com/LoremipRenn/Auto-Fill-Google-Form)** | `Python` `Selenium WebDriver` | Browser automation script built with Python & Selenium for rapid, automated form submission and testing. |
+| 🏟️ **[Sportiva](https://github.com/LoremipRenn/Sportiva)** | `PHP` `MySQL` `JavaScript` `HTML/CSS` | Sports venue booking platform with live schedule availability, OTP verification, cart management, and *"Mabar"* (matchmaking) feature. |
+
+<details>
+<summary><b>📄 Page 2 of 2</b> — Projects 5–6 (click to expand)</summary>
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| 🧺 **[Velvoria-Laundry](https://github.com/LoremipRenn/Velvoria-Laundry)** | `CodeIgniter 4` `PHP 8` `Tailwind CSS` `MySQL` `Midtrans` | Modern laundry management & online transaction web app with automated payment gateway integration and database migrations. |
+| ☕ **[RANUM-Coffee](https://github.com/LoremipRenn/RANUM-Coffee)** | `NestJS` `TypeScript` `Prisma` `Laravel 13` `Tailwind v4` `MySQL` | Full-stack coffee shop platform featuring QR table ordering, **Midtrans Snap** payment webhook, real-time order tracking (SSE), and RBAC admin dashboard. |
+</details>
+
+<!--END_PROJECTS-->
 
 ---
 
 ### 📈 GitHub Activity & Stats
 
 <div align="center">
-  <a><img height="165" src="https://github-readme-stats.vercel.app/api?username=LoremipRenn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Rendra's GitHub Stats" /></a>
-  <a><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoremipRenn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></a>
+  <a><img height="175" src="./assets/github-stats.svg" alt="Rendra's GitHub Stats" /></a>
+  <a><img height="175" src="./assets/top-langs.svg" alt="Top Languages" /></a>
 </div>
 
 ---

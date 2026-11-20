@@ -1,0 +1,22 @@
+{
+  "RANUM-Coffee": {
+    "emoji": "☕",
+    "stack": ["NestJS", "TypeScript", "Prisma", "Laravel 13", "Tailwind v4", "MySQL"],
+    "highlights": "Full-stack coffee shop platform featuring QR table ordering, **Midtrans Snap** payment webhook, real-time order tracking (SSE), and RBAC admin dashboard."
+  },
+  "Velvoria-Laundry": {
+    "emoji": "🧺",
+    "stack": ["CodeIgniter 4", "PHP 8", "Tailwind CSS", "MySQL", "Midtrans"],
+    "highlights": "Modern laundry management & online transaction web app with automated payment gateway integration and database migrations."
+  },
+  "Sportiva": {
+    "emoji": "🏟️",
+    "stack": ["PHP", "MySQL", "JavaScript", "HTML/CSS"],
+    "highlights": "Sports venue booking platform with live schedule availability, OTP verification, cart management, and *\"Mabar\"* (matchmaking) feature."
+  },
+  "Auto-Fill-Google-Form": {
+    "emoji": "🤖",
+    "stack": ["Python", "Selenium WebDriver"],
+    "highlights": "Browser automation script built with Python & Selenium for rapid, automated form submission and testing."
+  }
+}
