@@ -64,7 +64,7 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 📦 **[KinetaStudio](https://github.com/LoremipRenn/KinetaStudio)** | `Code` | Project built with **code** (`★ 1`). |
+| 📦 **[KinetaStudio](https://github.com/LoremipRenn/KinetaStudio)** | `JavaScript` | Project built with **JavaScript** (`★ 1`). |
 | 📦 **[LennyWeddingGallery](https://github.com/LoremipRenn/LennyWeddingGallery)** | `Svelte` | Project built with **Svelte** (`★ 1`). |
 | 📦 **[HokiBrewCoffee](https://github.com/LoremipRenn/HokiBrewCoffee)** | `PHP` | Project built with **PHP** (`★ 1`). |
 | 🤖 **[Auto-Fill-Google-Form](https://github.com/LoremipRenn/Auto-Fill-Google-Form)** | `Python` `Selenium WebDriver` | Browser automation script built with Python & Selenium for rapid, automated form submission and testing. |
